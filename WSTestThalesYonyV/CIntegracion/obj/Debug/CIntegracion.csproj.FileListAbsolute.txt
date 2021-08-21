@@ -1,0 +1,13 @@
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\CIntegracion.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\CIntegracion.pdb
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\CModelos.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\RestSharp.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\CModelos.pdb
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\bin\Debug\RestSharp.xml
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\obj\Debug\CIntegracion.csproj.AssemblyReference.cache
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\obj\Debug\CIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\obj\Debug\CIntegracion.csproj.CopyComplete
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\obj\Debug\CIntegracion.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\CIntegracion\obj\Debug\CIntegracion.pdb

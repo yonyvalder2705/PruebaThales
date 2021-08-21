@@ -1,0 +1,5 @@
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\utilities\bin\Debug\utilities.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\utilities\bin\Debug\utilities.pdb
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\utilities\obj\Debug\utilities.csproj.CoreCompileInputs.cache
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\utilities\obj\Debug\utilities.dll
+C:\Users\Yony-Game\source\repos\PruebaThales\WSTestThalesYonyV\utilities\obj\Debug\utilities.pdb
