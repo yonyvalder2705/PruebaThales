@@ -51,6 +51,10 @@ namespace CDatos
                 string jsonString = r.ReadToEnd();
                 wrapper = JsonConvert.DeserializeObject<EmployWrapper>(jsonString);
                 employModel = wrapper.data.Where(x=> x.Id == id).FirstOrDefault();
+                if(employModel == null)
+                {
+                    employModel = new EmployModel();
+                }
             }
 
             return employModel;
